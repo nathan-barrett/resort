@@ -1,0 +1,42 @@
+body {
+ background-color: #7bb3ff;
+}
+
+h1 {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  color: #493267;
+}
+
+h2 {
+  text-align: center;
+  color: #373854;
+
+}
+
+h3 {
+  text-align: center;
+  color: #493267;
+}
+
+p {
+  font-size: 25px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+  color: #373854
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+ul {
+  text-align: center;
+  font-size: 20px;
+  color: #9e379f;
+}
+
+ol {
+
+}
